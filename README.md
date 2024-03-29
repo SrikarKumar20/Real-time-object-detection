@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <h3 align="center">ReadME </h3>
+  <h3 align="center">Real Time Object Detection </h3>
 
   <p align="center">
     <a href="https://github.com/SrikarKumar20/Real-time-object-detection"><strong>Explore the docs »</strong></a>
